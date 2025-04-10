@@ -7,9 +7,9 @@
 [Support de présentation](./devoxx_2025_support_iot_microbit.pdf)
 
 L'atelier se décompose en plusieurs parties : 
-* Une présentation de la carte micro:bit. Le [support est disponible](https://jotitan.github.io)
+* Une présentation de la carte micro:bit. 
 * [Découvrir le langage bloc](./exercice_bloc.md)
-* [Katas pour se perfectionner](https://github.com/jotitan/microbit-tests-kata) : plusieurs exercices basiques
+* Démo : [Katas pour se perfectionner](https://github.com/jotitan/microbit-tests-kata) : plusieurs exercices basiques
 * [Icones radio](https://github.com/jotitan/microbit-radio-icons) : envoi d'icônes par radio
 * [La bille qui roule](https://github.com/jotitan/microbit-rolling-ball) : incliner la carte pour déplacer la bille
 * [Tu chauffes, tu brules](https://github.com/jotitan/microbit-burn-cold-game) : trouver des balises cachées
